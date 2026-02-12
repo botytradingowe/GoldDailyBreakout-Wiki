@@ -22,5 +22,15 @@ If you have any questions or need technical assistance, feel free to reach out:
 * **Email**: botytradingowe@gmail.com
 * **Project Owner**: Simple AlgoTrading Solutions
 
+
+## MINI version:
+https://botytradingowe.gumroad.com/l/2667_GoldDailyBreakout_MINI
+
+## PRO:
+https://botytradingowe.gumroad.com/l/2668_GoldDailyBreakout_PRO
+
+## VIP: (PRO + full source code)
+https://botytradingowe.gumroad.com/l/2669_GoldDailyBreakout_VIP
+
 ---
 *Disclaimer: Trading involves risk. Always test on a demo account before using real funds.*
